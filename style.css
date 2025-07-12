@@ -8,7 +8,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content:space-around;
-    margin: 0 auto;
+    margin: 50px 200px;
 }
 
 .btn-primary {
@@ -71,4 +71,32 @@ nav {
 } 
 .item-title {
     border-radius: 30px;
+}
+
+/* section 2 */
+
+.about-items {
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+}
+
+.secondary-bg {
+    background-color:rgb(200, 219, 241);
+    margin: 500px 100px;
+    display: grid;
+}
+
+.title-item {
+    font-size: 50px;
+}
+
+.item-title {
+    font-size: 100px;
+    font-weight: bold;
+    color: blue;
+}
+.item-description {
+    font-size: 30px;
+    gap: 3px;
 }

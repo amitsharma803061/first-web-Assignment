@@ -1,6 +1,7 @@
 /* header */
 .header {
-    background-image: url('../Assets/Hero-bg.png');
+  background-color: rgb(188, 205, 228);
+  display: grid;
 
 }
 /* nav style */

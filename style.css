@@ -12,15 +12,15 @@ nav {
 }
 
 .btn-primary {
-    font-size: 65px;
+    font-size: 105px;
     color: #4E47FF;
 }
 .btn-about{
-    border: none;
+    border:120px;
     outline: none;
-    font-size: 45px;
+    font-size: 105px;
     color: #FFF;
-    border-radius: 12px;
+    border-radius: 22px;
     background-color: #4E47FF;
 }
 
@@ -34,13 +34,13 @@ nav {
 .banner-title{
     width: 905px;
     font-weight: bold;
-    font-size: 65px;
+    font-size: 75px;
 }
 .about {
     border: none;
     outline: none;
     color: #FFF;
-    font-size: 20px;
+    font-size: 40px;
     border-radius: 7px;
     background-color: #4E47FF;
 }
@@ -53,24 +53,25 @@ nav {
      margin-right: 50px;
 }
 .write {
-    font-size: 42px;
+    font-size: 72px;
     font-weight: bold;
 }
 .buttom-title {
     width: 517px;
     height: 49px;
-    font-size: 30px;
+    font-size: 50px;
 }
 .buttoms-title {
     border: none;
     outline: none;
     color: #FFF;
     border-radius: 100px;
-    font-size: 20px;
+    font-size: 30px;
     background-color: #4E47FF;
 } 
 .item-title {
-    border-radius: 30px;
+    border-radius: 20px;
+    border: 100px;
 }
 
 /* section 2 */
@@ -92,11 +93,41 @@ nav {
 }
 
 .item-title {
-    font-size: 100px;
+    font-size: 150px;
     font-weight: bold;
     color: blue;
 }
 .item-description {
-    font-size: 30px;
-    gap: 3px;
+    font-size: 50px;
+}
+
+/* section3 */
+.What {
+   font-size: 100px;
+}
+.What-item {
+    display: flex;
+    font-size: 50px;
+    justify-content: space-around;
+}
+
+.date {
+    color: aliceblue;
+}
+
+.date-item {
+    display: flex;
+
+}
+.image-style {
+    border-radius: 50px;
+
+}
+.date {
+    font-size: 10px;
+}
+.setup-profile {
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
